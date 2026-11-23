@@ -1,3 +1,3 @@
 # hello
 My first repo on GitHub
-i like cheese
+i like cheese and salt
